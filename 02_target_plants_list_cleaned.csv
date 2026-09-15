@@ -1,0 +1,23 @@
+﻿plant_id,scientific_name,common_en,common_ar,family,key_api,api_use,hs_codes,priority,notes,common_name,hs_code_raw,hs_code_extract
+P01,Catharanthus roseus,Madagascar periwinkle,ونكة مدغشقرية,Apocynaceae,Vincristine;Vinblastine,Anticancer (leukemia lymphoma),1211.90;2939.79,1,Already has EcoCrop sheet id=652 in project folder,ونكة مدغشقرية (Madagascar periwinkle),1211.90,2939.79
+P02,Vinca minor,Lesser periwinkle,ونكة صغرى,Apocynaceae,Vincamine,Cerebral vasodilator,1211.90;2939.79,2,Not specified,ونكة صغرى (Lesser periwinkle),1211.90,2939.79
+P03,Silybum marianum,Milk thistle,شوك الجمل / خرفيش,Asteraceae,Silymarin,Hepatoprotective,1211.90;1302.19,1,Grows wild in Egypt,شوك الجمل / خرفيش (Milk thistle),1211.90,1302.19
+P04,Ammi visnaga,Khella,خلة بلدي,Apiaceae,Khellin;Visnagin,Antispasmodic urolithiasis,1211.90;2932.20,1,Native Egyptian crop historically exported,خلة بلدي (Khella),1211.90,2932.20
+P05,Ammi majus,Bishops weed,خلة شيطاني,Apiaceae,Methoxsalen (Xanthotoxin),Vitiligo psoriasis PUVA,1211.90;2932.20,1,Native Egyptian,خلة شيطاني (Bishops weed),1211.90,2932.20
+P06,Atropa belladonna,Belladonna,ست الحسن,Solanaceae,Atropine;Hyoscyamine,Anticholinergic,1211.40;2939.69,2,Not specified,ست الحسن (Belladonna),1211.40,2939.69
+P07,Hyoscyamus muticus,Egyptian henbane,سكران مصري,Solanaceae,Hyoscine (Scopolamine),Antispasmodic antiemetic,1211.40;2939.69,1,Desert native high alkaloid,سكران مصري (Egyptian henbane),1211.40,2939.69
+P08,Datura stramonium,Jimsonweed,داتورة,Solanaceae,Scopolamine;Atropine,Anticholinergic,1211.40;2939.69,3,Not specified,داتورة (Jimsonweed),1211.40,2939.69
+P09,Digitalis lanata,Grecian foxglove,ديجيتال,Plantaginaceae,Digoxin;Digitoxin,Cardiac glycoside heart failure,1211.90;2938.90,2,Needs cooler climate - test suitability,ديجيتال (Grecian foxglove),1211.90,2938.90
+P10,Papaver somniferum,Opium poppy,خشخاش منوم,Papaveraceae,Morphine;Codeine;Thebaine,Analgesic,1211.40;2939.11,3,LEGALLY RESTRICTED in Egypt - narcotics control,خشخاش منوم (Opium poppy),1211.40,2939.11
+P11,Artemisia annua,Sweet wormwood,الشيح الحولي,Asteraceae,Artemisinin,Antimalarial,1211.90;2932.99,1,High global demand,الشيح الحولي (Sweet wormwood),1211.90,2932.99
+P12,Matricaria chamomilla,German chamomile,بابونج,Asteraceae,Bisabolol;Chamazulene,Anti-inflammatory,1211.90;3301.29,1,Egypt already major exporter - benchmark crop,بابونج (German chamomile),1211.90,3301.29
+P13,Mentha piperita,Peppermint,نعناع فلفلي,Lamiaceae,Menthol,Carminative topical,1211.90;3301.24,2,Not specified,نعناع فلفلي (Peppermint),1211.90,3301.24
+P14,Foeniculum vulgare,Fennel,شمر,Apiaceae,Anethole,Carminative,0909.61;3301.29,2,Not specified,شمر (Fennel),0909.61,3301.29
+P15,Trigonella foenum-graecum,Fenugreek,حلبة,Fabaceae,Diosgenin,Steroid precursor,0910.99;2937.29,1,Diosgenin is a steroid hormone precursor,حلبة (Fenugreek),0910.99,2937.29
+P16,Aloe vera,Aloe,صبار / الوة,Asphodelaceae,Aloin;Acemannan,Laxative dermatological,1302.19,2,Not specified,صبار / الوة (Aloe),1302.19,
+P17,Withania somnifera,Ashwagandha,عنب الديب,Solanaceae,Withanolides,Adaptogen,1211.90,2,Not specified,عنب الديب (Ashwagandha),1211.90,
+P18,Glycyrrhiza glabra,Licorice,عرق سوس,Fabaceae,Glycyrrhizin,Anti-ulcer expectorant,1211.90;2938.90,2,Not specified,عرق سوس (Licorice),1211.90,2938.90
+P19,Ricinus communis,Castor bean,خروع,Euphorbiaceae,Ricinoleic acid,Laxative industrial oil,1207.30;1515.30,3,Not specified,خروع (Castor bean),1207.30,1515.30
+P20,Cymbopogon citratus,Lemongrass,حشيشة الليمون,Poaceae,Citral,Flavour antiseptic,1211.90;3301.29,3,Not specified,حشيشة الليمون (Lemongrass),1211.90,3301.29
+P21,Calendula officinalis,Marigold,آذريون,Asteraceae,Faradiol esters,Wound healing,1211.90,3,Not specified,آذريون (Marigold),1211.90,
+P22,Salvia officinalis,Sage,مريمية,Lamiaceae,Thujone;Rosmarinic acid,Antiseptic,1211.90;3301.29,3,Not specified,مريمية (Sage),1211.90,3301.29

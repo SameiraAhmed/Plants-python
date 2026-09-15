@@ -1,0 +1,10 @@
+﻿species,crop_cycle_days__max,crop_cycle_days__min,crop_cycle_days_leaf__max,crop_cycle_days_leaf__min,crop_cycle_days_seed__max,crop_cycle_days_seed__min,rainfall_mm_abs_max__max,rainfall_mm_abs_max__min,rainfall_mm_abs_min__max,rainfall_mm_abs_min__min,rainfall_mm_opt_max__max,rainfall_mm_opt_max__min,rainfall_mm_opt_min__max,rainfall_mm_opt_min__min,soil_ph HIGHEST MEASURED__max,soil_ph HIGHEST MEASURED__min,soil_ph_abs_max__max,soil_ph_abs_max__min,soil_ph_abs_min__max,soil_ph_abs_min__min,soil_ph_opt_max__max,soil_ph_opt_max__min,soil_ph_opt_min__max,soil_ph_opt_min__min,soil_salinity__max,soil_salinity__min,temperature_c_abs_max__max,temperature_c_abs_max__min,temperature_c_abs_min__max,temperature_c_abs_min__min,temperature_c_opt_max__max,temperature_c_opt_max__min,temperature_c_opt_min__max,temperature_c_opt_min__min
+Aloe vera,240.0,210.0,,,,,4000.0,4000.0,700.0,700.0,1800.0,1800.0,1000.0,1000.0,,,8.5,8.5,,,7.5,7.5,6.5,6.5,6.0,6.0,40.0,40.0,10.0,10.0,35.0,35.0,19.0,19.0
+Ammi majus,165.0,150.0,,,,,,,,,,,,,,,8.5,8.5,6.0,6.0,,,,,,,35.0,35.0,8.0,8.0,22.0,22.0,20.0,20.0
+Ammi visnaga,240.0,210.0,,,,,,,,,,,,,,,8.3,8.3,6.8,6.8,8.0,8.0,7.0,7.0,,,32.0,32.0,5.0,5.0,25.0,25.0,10.0,10.0
+Atropa belladonna,180.0,150.0,,,,,,,,,,,,,,,8.5,8.5,5.5,5.5,8.2,8.2,7.0,7.0,,,35.0,35.0,8.0,8.0,26.0,26.0,20.0,20.0
+Datura stramonium,,,56.0,56.0,140.0,140.0,,,,,,,,,,,,,,,,,,,,,40.0,40.0,10.0,10.0,30.0,30.0,20.0,20.0
+Hyoscyamus muticus,140.0,120.0,,,,,,,2.0,2.0,,,,,,,8.5,8.5,7.4,7.4,,,,,,,40.0,40.0,10.0,10.0,30.0,30.0,20.0,20.0
+Matricaria chamomilla,150.0,140.0,,,,,1300.0,1300.0,300.0,300.0,1000.0,1000.0,700.0,700.0,,,8.3,8.3,,,7.0,7.0,5.5,5.5,,,30.0,30.0,6.0,6.0,25.0,25.0,19.0,19.0
+Silybum marianum,,,,,,,,,,,,,,,7.9,7.9,8.5,8.5,5.0,5.0,7.6,7.6,6.0,6.0,30.0,9.0,,,,,,,,
+Vinca minor,730.0,730.0,,,,,,,,,1367.0,1367.0,890.0,890.0,,,8.0,8.0,5.0,5.0,7.2,7.2,6.7,6.7,,,28.0,28.0,5.0,5.0,25.0,25.0,10.0,10.0

@@ -1,0 +1,115 @@
+﻿kegg_drug,drug_name,match_type,plant_ids,pubchem_cids,plant_names,plant_names_ar,atc_codes,diseases,atc_class,confidence
+D00064,l-Menthol (JP19); Levomenthol,partial,P13,,Mentha piperita,نعناع فلفلي,,,,medium
+D00113,Atropine (USP); Atropen (TN),exact,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,A03BA01;S01FA01,,الجهاز الهضمي والأيض;الحواس,high
+D00138,Scopolamine (INN); Transderm scop (TN),exact,P07;P08,,Hyoscyamus muticus;Datura stramonium,سكران مصري;داتورة,A04AD01;N05CM05;S01FA02,,الجهاز العصبي;الجهاز الهضمي والأيض;الحواس,high
+D00139,Methoxsalen (JP19/USP); Oxsoralen (TN); UVADEX (TN),exact,P05,,Ammi majus,خلة شيطاني,D05AD02;D05BA02,,الجلد,high
+D00147,Hyoscyamine (USP),exact,P06,,Atropa belladonna,ست الحسن,A03BA03,,الجهاز الهضمي والأيض,high
+D00157,Glycyrrhizin (JAN); Glycyrrhizic acid,exact,P18,,Glycyrrhiza glabra,عرق سوس,A05BA08,,الجهاز الهضمي والأيض,high
+D00195,Codeine (USP); Codeine hydrate,exact,P10,,Papaver somniferum,خشخاش منوم,R05DA04,,الجهاز التنفسي,high
+D00297,Digitoxin (JAN/USP/INN); Crystodigin (TN),exact,P09,,Digitalis lanata,ديجيتال,C01AA04,,القلب والأوعية,high
+D00298,Digoxin (JP19/USP); Lanoxicaps (TN); Lanoxin (TN),exact,P09,,Digitalis lanata,ديجيتال,C01AA05,,القلب والأوعية,high
+D00301,Atropine sulfate and diphenoxylate hydrochloride; Diphenoxylate and atropine; Lomotil (TN),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,,,,medium
+D00715,Methscopolamine bromide (USP); Hyoscine methobromide (INN); Pamine (TN),partial,P07;P08,,Hyoscyamus muticus;Datura stramonium,سكران مصري;داتورة,,,,medium
+D00719,Hyoscyamine sulfate (USP); Hyoscyamine sulfate dihydrate; Egacene (TN),exact,P06,,Atropa belladonna,ست الحسن,A03BA03,,الجهاز الهضمي والأيض,high
+D00842,Morphine sulfate (USP); Morphine sulfate hydrate (JP19); Morphine sulfate pentahydrate; Astramor PH (TN); Avinza (TN); Depodur (TN); Kadian (TN); MS contin (TN),exact,P10,,Papaver somniferum,خشخاش منوم,N02AA01,,الجهاز العصبي,high
+D01004,Homatropine hydrobromide (JP19/USP); Isopto homatropine (TN),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,S01FA05,,الحواس,medium
+D01068,Vinblastine sulfate (JP19/USP); Exal (TN); Velban (TN),exact,P01,,Catharanthus roseus,ونكة مدغشقرية,L01CA01,,الأورام والمناعة,high
+D01077,Methylatropine nitrate (USAN); Atropine methonitrate (JAN/INN); Ekomine (TN),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,A03BB02,,الجهاز الهضمي والأيض,low
+D01451,Scopolamine butylbromide (JP19); Butylscopolamine bromide; Buscopan (TN),partial,P07;P08,,Hyoscyamus muticus;Datura stramonium,سكران مصري;داتورة,A03BB01,,الجهاز الهضمي والأيض,medium
+D01481,Dihydrocodeine phosphate (JP19); Dihydro (TN),partial,P10,,Papaver somniferum,خشخاش منوم,N02AA08,,الجهاز العصبي,low
+D01648,Hyoscyamine methylbromide (JAN),partial,P06,,Atropa belladonna,ست الحسن,A03BA03,,الجهاز الهضمي والأيض,low
+D01656,Brovincamine fumarate (JAN); Sabromin (TN),partial,P02,,Vinca minor,ونكة صغرى,,,,medium
+D01976,N-Methylscopolamine methylsulfate (JAN); Daipin (TN),partial,P07;P08,,Hyoscyamus muticus;Datura stramonium,سكران مصري;داتورة,A03BB03;S01FA03,,الجهاز الهضمي والأيض;الحواس,low
+D02004,Apomorphine hydrochloride (USP); Apomorphine hydrochloride hydrate (JAN); Apokyn (TN); Ixense (TN); Uprima (TN),partial,P10,,Papaver somniferum,خشخاش منوم,G04BE07;N04BC07,,الجهاز البولي التناسلي;الجهاز العصبي,medium
+D02028,Diammonium glycyrrhizinate (JAN),partial,P18,,Glycyrrhiza glabra,عرق سوس,,,,medium
+D02069,Atropine sulfate (JP19/USP); Ryjusea (TN),exact,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,A03BA01;S01FA01,,الجهاز الهضمي والأيض;الحواس,high
+D02070,Homatropine methylbromide (USP); Equipin (TN),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,A03BB06;S01FA05,,الجهاز الهضمي والأيض;الحواس,low
+D02071,Scopolamine hydrobromide (USP); Scopolamine hydrobromide hydrate (JP19); Scopolamine hydrobromide trihydrate; Hysco (TN); Isopto hyoscine (TN),exact,P07;P08,,Hyoscyamus muticus;Datura stramonium,سكران مصري;داتورة,A04AD01;N05CM05;S01FA02,,الجهاز العصبي;الجهاز الهضمي والأيض;الحواس,high
+D02101,Codeine phosphate (USP); Codeine phosphate hydrate (JP19),exact,P10,,Papaver somniferum,خشخاش منوم,R05DA04,,الجهاز التنفسي,high
+D02128,Difenoxin hydrochloride and atropine sulfate; Motofen (TN),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,,,,medium
+D02146,Acetaminophen and codeine phosphate; Tylenol w/codeine (TN),partial,P10,,Papaver somniferum,خشخاش منوم,N02AJ06,,الجهاز العصبي,medium
+D02197,Vincristine sulfate (JP19/USP); VCR; Marqibo (TN); Oncovin (TN); Vincasar (TN); Vincrex (TN),exact,P01,,Catharanthus roseus,ونكة مدغشقرية,L01CA02,,الأورام والمناعة,high
+D02205,Ethylmorphine hydrochloride hydrate (JP19); Ethylmorphine hydrochloride dihydrate,partial,P10,,Papaver somniferum,خشخاش منوم,R05DA01;S01XA06,,الجهاز التنفسي;الحواس,low
+D02264,Dipotassium glycyrrhizinate (JAN); Glycyrrhizinate dipotassium; Neubormitin (TN),partial,P18,,Glycyrrhiza glabra,عرق سوس,,,,medium
+D02271,Morphine hydrochloride hydrate (JP19); Morphine hydrochloride trihydrate; Anpec (TN),exact,P10,,Papaver somniferum,خشخاش منوم,N02AA01,,الجهاز العصبي,high
+D02273,"Isoproterenol sulfate, dexamethasone and atropine methybromide; Stmerin D (TN)",partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,,,,medium
+D02377,Anethole (NF),exact,P14,,Foeniculum vulgare,شمر,,,,high
+D02481,Artemisinin (INN); Qing Hau Sau,exact,P11,,Artemisia annua,الشيح الحولي,P01BE01,,الطفيليات,high
+D02587,Metildigoxin (JP19); Lanirapid (TN),partial,P09,,Digitalis lanata,ديجيتال,C01AA08,,القلب والأوعية,medium
+D02781,Acemannan (USAN/INN); Carrisyn (TN),exact,P16,,Aloe vera,صبار / الوة,,,,high
+D03011,Atropine oxide hydrochloride (USAN); Genatropine hydrochloride,partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,,,,medium
+D03579,Codeine polistirex (USAN),partial,P10,,Papaver somniferum,خشخاش منوم,R05DA04,,الجهاز التنفسي,low
+D03580,Codeine sulfate (USP); Codeine sulfate trihydrate,exact,P10,,Papaver somniferum,خشخاش منوم,R05DA04,,الجهاز التنفسي,high
+D03814,Atropine methylbromide (JAN),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,A03BB02,,الجهاز الهضمي والأيض,low
+D03825,Dihydrocodeine bitartrate (USP),partial,P10,,Papaver somniferum,خشخاش منوم,N02AA08,,الجهاز العصبي,low
+D03863,Opium alkaloids and atropine (JP19); Opium alkaloids hydrochloride and atropine sulfate hydrate; Opiato (TN),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,,,,medium
+D03866,Opium alkaloids and scopolamine (JP19); Weak opium alkaloids and scopolamine (JP19); Opium alkaloids hydrochloride and scopolamine hydrobromide hydrate; Opisco (TN),partial,P07;P08,,Hyoscyamus muticus;Datura stramonium,سكران مصري;داتورة,,,,medium
+D03872,Compound oxycodone and atropine (JP19); Pavinal atropine (TN),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,,,,medium
+D03876,Morphine and atropine (JP19); Morphine hydrochloride hydrate and atropine sulfate hydrate,partial,P06;P08;P10,,Atropa belladonna;Datura stramonium;Papaver somniferum,ست الحسن;داتورة;خشخاش منوم,N02AG01,,الجهاز العصبي,medium
+D04116,Eucatropine hydrochloride (USP XXXII),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,,,,medium
+D04313,"Dihydrocodeine phosphate, dl-methylephedrine hydrochloride and Chlorpheniramine maleate; Huscode (TN)",partial,P10,,Papaver somniferum,خشخاش منوم,R06AB54,,الجهاز التنفسي,low
+D04336,Cherry bark extract and codeine phosphate hydrate; Brocin codeine (TN),partial,P10,,Papaver somniferum,خشخاش منوم,R05FA01,,الجهاز التنفسي,medium
+D04338,"Dihydrocodeine phosphate, ephedrine hydrochloride and ammmonium chloride; Sekicode (TN)",partial,P10,,Papaver somniferum,خشخاش منوم,,,,low
+D04479,Hyoscyamine hydrobromide (USP),exact,P06,,Atropa belladonna,ست الحسن,A03BA03,,الجهاز الهضمي والأيض,high
+D04849,dl-Menthol (JP19),partial,P13,,Mentha piperita,نعناع فلفلي,,,,medium
+D04850,"Phenol, thymol and dl-menthol",partial,P13,,Mentha piperita,نعناع فلفلي,,,,medium
+D04918,Menthol (USP),exact,P13,,Mentha piperita,نعناع فلفلي,,,,high
+D04987,Monoammonium glycyrrhizinate (JAN); Ammonium glycyrrhizate (NF); Glycyron No.1 (TN),partial,P18,,Glycyrrhiza glabra,عرق سوس,,,,medium
+D04990,"Monoammonium glycyrrhizinate, glycine and L-cysteine hydrochloride; Stronger neo minophagen C (TN)",partial,P18,,Glycyrrhiza glabra,عرق سوس,,,,medium
+D04993,"Monoammonium glycyrrhizinate, glycine and DL-methionine; Glycyron (TN)",partial,P18,,Glycyrrhiza glabra,عرق سوس,,,,medium
+D06881,Acetyldigitoxin (INN); Acylanid (TN),partial,P09,,Digitalis lanata,ديجيتال,C01AA01,,القلب والأوعية,low
+D07285,Nicomorphine (INN),partial,P10,,Papaver somniferum,خشخاش منوم,N02AA04,,الجهاز العصبي,medium
+D07286,Diamorphine (BAN); Heroin; Diacetylmorphine,partial,P10,,Papaver somniferum,خشخاش منوم,N07BC06,,الجهاز العصبي,medium
+D07460,Apomorphine (BAN); Uprima (TN),partial,P10,,Papaver somniferum,خشخاش منوم,G04BE07;N04BC07,,الجهاز البولي التناسلي;الجهاز العصبي,medium
+D07477,Atropine oxide (INN); Apitropin (TN),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,,,,medium
+D07511,Benzatropine (INN); Benztropine,partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,N04AC01,,الجهاز العصبي,medium
+D07545,Brovincamine (INN); Sarbromin (TN),partial,P02,,Vinca minor,ونكة صغرى,,,,medium
+D07555,Acetyldigoxin; Cedigossima (TN),partial,P09,,Digitalis lanata,ديجيتال,C01AA02,,القلب والأوعية,low
+D07556,beta-Acetyldigoxin; Acetyldigoxin beta isomer; Corotal (TN),partial,P09,,Digitalis lanata,ديجيتال,,,,low
+D07557,O-Acetyldihydrocodeine hydrochloride; Acetylcodone (TN),partial,P10,,Papaver somniferum,خشخاش منوم,R05DA12,,الجهاز التنفسي,low
+D07740,Codeine hydrochloride; Bisoltus (TN),exact,P10,,Papaver somniferum,خشخاش منوم,R05DA04,,الجهاز التنفسي,high
+D07810,Diacetylmorphine hydrochloride; Diamorphine hydrochloride; Heroin hydrochloride,partial,P10,,Papaver somniferum,خشخاش منوم,N07BC06,,الجهاز العصبي,medium
+D07831,Dihydrocodeine (INN); Remedacen (TN),partial,P10,,Papaver somniferum,خشخاش منوم,N02AA08,,الجهاز العصبي,low
+D07832,Dihydrocodeine thiocyanate; Paracodin (TN),partial,P10,,Papaver somniferum,خشخاش منوم,N02AA08,,الجهاز العصبي,low
+D07929,Ethylmorphine (BAN),partial,P10,,Papaver somniferum,خشخاش منوم,R05DA01;S01XA06,,الجهاز التنفسي;الحواس,low
+D08233,Morphine (BAN); Substitol (TN),exact,P10,,Papaver somniferum,خشخاش منوم,N02AA01,,الجهاز العصبي,high
+D08234,Morphine tartrate,exact,P10,,Papaver somniferum,خشخاش منوم,N02AA01,,الجهاز العصبي,high
+D08273,Nicomorphine hydrochloride; Vilan (TN),partial,P10,,Papaver somniferum,خشخاش منوم,N02AA04,,الجهاز العصبي,medium
+D08675,Vinblastine (INN),exact,P01,,Catharanthus roseus,ونكة مدغشقرية,L01CA01,,الأورام والمناعة,high
+D08677,Vincamine (INN); Cetal retard (TN),exact,P02,,Vinca minor,ونكة صغرى,C04AX07,,القلب والأوعية,high
+D08678,Vincamine hydrochloride; Vadicate (TN),exact,P02,,Vinca minor,ونكة صغرى,C04AX07,,القلب والأوعية,high
+D08679,Vincristine (INN); Tecnocris (TN),exact,P01,,Catharanthus roseus,ونكة مدغشقرية,L01CA02,,الأورام والمناعة,high
+D08695,"dl-Methylephedrine hydrochloride, dihydrocodeine phosphate, diprophylline, diphenhydramine salicylate, acetaminophen and bromovalerylurea; Coughcode N (TN)",partial,P10,,Papaver somniferum,خشخاش منوم,N02AA58,,الجهاز العصبي,low
+D08697,"Platycodon fluidextract, glycyrrhiza extract, plantago herb extract, peony root extract and dihydrocodeine phosphate; Opisezol codeine (TN)",partial,P10,,Papaver somniferum,خشخاش منوم,,,,low
+D08706,"l-Menthol, cinnamon bark, gentian, zanthoxylum fruit, ginger and sodium bicarbonate; Biasan (TN)",partial,P13,,Mentha piperita,نعناع فلفلي,,,,medium
+D08707,"l-Menthol, gentian, scopolia extract powder and sodium bicarbonate; Bellsan (TN)",partial,P13,,Mentha piperita,نعناع فلفلي,,,,medium
+D08715,"dl-Camphor, dl-menthol, methyl salicylate and diphenhydramine; Salymetick S (TN)",partial,P13,,Mentha piperita,نعناع فلفلي,,,,low
+D08716,"dl-Camphor, l-menthol, glycyrrhetinic acid and methyl salicylate; Stick zenol A (TN)",partial,P13,,Mentha piperita,نعناع فلفلي,,,,low
+D08717,"dl-Camphor, l-menthol, glycol salicylate, methyl salicylate, diphenhydramine and benzyl nicotinate; Hiship (TN)",partial,P13,,Mentha piperita,نعناع فلفلي,,,,low
+D08718,"dl-Camphor, l-menthol and methyl salicylate; Mirusart (TN)",partial,P13,,Mentha piperita,نعناع فلفلي,,,,low
+D08719,"dl-Camphor, l-menthol, methyl salicylate, diphenhydramine, nonanoic acid vanillylamide and mentha oil; Halihot (TN)",partial,P13,,Mentha piperita,نعناع فلفلي,,,,low
+D08720,"dl-Camphor, l-menthol, methyl salicylate and diphenhydramine hydrochloride; Pastellhap (TN)",partial,P13,,Mentha piperita,نعناع فلفلي,,,,low
+D08721,"dl-Camphor, l-menthol, methyl salicylate, thymol and mentha oil; Kyupap M (TN)",partial,P13,,Mentha piperita,نعناع فلفلي,,,,low
+D08722,"dl-Camphor, l-menthol, methyl salicylate and mentha oil; Asmoroll (TN)",partial,P13,,Mentha piperita,نعناع فلفلي,,,,low
+D08728,l-Menthol and glycol salicylate; ES plasta (TN),partial,P13,,Mentha piperita,نعناع فلفلي,,,,medium
+D09186,Neostigmine methylsulfate and atropine sulfate; Atvagoreverse (TN),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,N07AA51,,الجهاز العصبي,low
+D09847,Metildigoxin (INN); Medigoxin (BAN),partial,P09,,Digitalis lanata,ديجيتال,C01AA08,,القلب والأوعية,medium
+D10449,Ibuprofen and scopolamine butylbromide,partial,P07;P08,,Hyoscyamus muticus;Datura stramonium,سكران مصري;داتورة,A03DB04,,الجهاز الهضمي والأيض,medium
+D11076,Homatropine meylbromide and hydrocodone; Tussigon (TN),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,,,,medium
+D11587,"Carisoprodol, aspirin and codeine phosphate",partial,P10,,Papaver somniferum,خشخاش منوم,,,,medium
+D11670,Morphine sulfate and naltrexone hydrochloride; Embeda (TN),partial,P10,,Papaver somniferum,خشخاش منوم,,,,medium
+D11851,"Butalbital, acetaminophen, caffeine and codeine phosphate",partial,P10,,Papaver somniferum,خشخاش منوم,,,,medium
+D11852,Codeine and promethazine,partial,P10,,Papaver somniferum,خشخاش منوم,,,,medium
+D11860,"Butalbital, aspirin, caffeine and codeine; Fiorinal with codeine (TN)",partial,P10,,Papaver somniferum,خشخاش منوم,,,,medium
+D12138,"Promethazine hydrochloride, phenylephrine hydrochloride and codeine phosphate; Phenergan vc w/ codeine (TN); Pherazine vc w/ codeine (TN); Prometh vc w/ codeine (TN)",partial,P10,,Papaver somniferum,خشخاش منوم,S01GA55,,الحواس,medium
+D12295,"Acetaminophen, caffeine and dihydrocodeine bitartrate; Trezix (TN)",partial,P10,,Papaver somniferum,خشخاش منوم,,,,low
+D12312,Codeine phosphate and chlorpheniramine maleate; Tuxarin (TN),partial,P10,,Papaver somniferum,خشخاش منوم,R05DA20,,الجهاز التنفسي,medium
+D12313,Chlorpheniramine polistirex and codeine polistirex; Tuzistra (TN),partial,P10,,Papaver somniferum,خشخاش منوم,R06AB54,,الجهاز التنفسي,low
+D12670,Desomorphine (INN),partial,P10,,Papaver somniferum,خشخاش منوم,,,,low
+D12689,Methyldihydromorphine (INN),partial,P10,,Papaver somniferum,خشخاش منوم,,,,low
+D12759,Atropine and pralidoxime chloride; Atnaa (TN); Duodote (TN),partial,P06;P08,,Atropa belladonna;Datura stramonium,ست الحسن;داتورة,V03AB54,,متنوع,medium
+D08735,Visnadine (INN),curated,P04,,Ammi visnaga,خلة بلدي,,,,high
+D08515,Silibinin (INN); Silymarin I; Legalon (TN),curated,P03,,Silybum marianum,شوك الجمل / خرفيش,,,,high
+D09135,Fenugreek seed,curated,P15,,Trigonella foenum-graecum,حلبة,,,,high
+D06462,Castor oil (JP19/USP),curated,P19,,Ricinus communis,خروع,,,,high
+D03418,Aromatic castor oil (JP19),curated,P19,,Ricinus communis,خروع,,,,medium
